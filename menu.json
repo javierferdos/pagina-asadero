@@ -1,0 +1,15 @@
+[
+    {
+      "nombre": "Pollo Asado Entero",
+      "descripcion": "Jugoso pollo asado con papas y ensalada.",
+      "precio": "35.000 COP",
+      "imagen": "images/pollo_asado.jpg"
+    },
+    {
+      "nombre": "Costillas BBQ",
+      "descripcion": "Costillas de cerdo en salsa BBQ con acompañamiento.",
+      "precio": "40.000 COP",
+      "imagen": "images/costillas.jpg"
+    }
+  ]
+  
